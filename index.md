@@ -1,7 +1,7 @@
 
 Namita Karnik
 
-/Users/namitakarnik/Documents/GitHub/namitakarnik.github.io/Headshot_Namita.jpeg 
+![profile_pic](images/Headshot_Namita.jpeg)
 
 Namita Karnik is currently pursuing her Masters in Development Practice at 
 the University of California, Berkeley. Her research interests include 
